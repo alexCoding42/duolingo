@@ -1,6 +1,7 @@
 # duolingo
 A mobile app duolingo clone
 
+![Uploading duolingo.jpeg…]()
 
 # Run the project
 
