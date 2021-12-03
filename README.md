@@ -1,7 +1,6 @@
 # duolingo
 A mobile app duolingo clone
-
-![Uploading duolingo.jpeg…]()
+![duolingo](https://user-images.githubusercontent.com/56698920/144564418-a70a61c8-5107-4a7c-b898-19f968e5d744.jpeg)
 
 # Run the project
 
